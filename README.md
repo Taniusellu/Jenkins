@@ -3,8 +3,11 @@
 1. Jenkins/ Jobs
 -------------------
 
-*Introduction and set up Jenkins.
+*Introduction and set up Jenkins.                                                                                                                                                    
 *Learning basic interfaces
+
 *Working with plugins
+
 *Understanding Script console
+
 *Understanding user management
